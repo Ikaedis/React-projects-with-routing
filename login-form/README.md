@@ -11,3 +11,7 @@ It has:
 
 - Forgot password button and a form to input the recovery email.
 - Sign up button.
+
+Features to add:
+
+- Create a collapsable menu that lets the user select the prefix phone number corresponding to their country
